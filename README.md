@@ -1,4 +1,6 @@
 ## Panther 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAliRn76%2Fpanther.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAliRn76%2Fpanther?ref=badge_shield)
+
 <b>Is A Fast &  Friendly Web Framework For Building Async APIs With Python 3.11+</b> 
 
 <p align="center">
@@ -173,3 +175,7 @@ with [https://github.com/nakabonne/ali](https://github.com/nakabonne/ali) and he
 
 
 > More examples: [https://github.com/AliRn76/panther/tree/master/example](https://github.com/AliRn76/panther/tree/master/example).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAliRn76%2Fpanther.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAliRn76%2Fpanther?ref=badge_large)
